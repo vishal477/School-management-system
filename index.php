@@ -1,3 +1,4 @@
+<!-- This is only config file-->
 <?php 
 include('config/DbFunction.php');
 $obj=new DbFunction();
